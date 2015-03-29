@@ -1,0 +1,2 @@
+jquery is version 2.1.3
+requirejs is version 2.1.16
